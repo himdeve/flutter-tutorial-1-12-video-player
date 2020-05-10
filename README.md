@@ -23,7 +23,7 @@ Welcome to Himdeve development, where we are preparing the best tutorials to mak
 
 ### EN
 
-https://himdeve.com/flutter-sk-cz-tutorialy/flutter-tutorial-1-12-video-player-chewie
+https://himdeve.com/flutter-tutorials/flutter-tutorial-1-12-video-player-chewie
 
 ### SK/CZ
 
